@@ -1,6 +1,8 @@
 ### 2. Introduction to OSC (Ohio Supercomputer Center) infrastructure and CLI (Command Line Interface)
 <hr>
 
+This is Andika's personal edited copy
+
 
 This lecture will focus on introduction to Ohio Supercomputer Center (OSC) infrastructure and Linux CLI.
 
